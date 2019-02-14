@@ -1,4 +1,2 @@
 # MayaAnimation
 This is an action-filled animation of a classic Nicolas Cage-esque car-helicopter chase in the middle of a city on a stormy night.  My objective with this project is to do as MUCH as I can (or that I have time to do) with Python code: object movements/rotations, camera aiming and dollying, physics simulations, texture mapping, keyframing, and more. I don't want to use the Maya UI at all, since it consistently crashes when the UI is used with crowded scenes.  This code, together with its home folder of images and object files, is portable, functional, and self-contained. Its development took between 30 and 40 hours (lots of trial and error modifications of variables like accelerations, velocities, positions, rotations, etc.) It can be run on both Mac OS and Windows. It requires no additional interface interactions within the Maya application aside from pasting and executing the code.
-
-READ ME UPDATE FOR CSCI 462 - GITHUB ACCOUNT CREATION - 
